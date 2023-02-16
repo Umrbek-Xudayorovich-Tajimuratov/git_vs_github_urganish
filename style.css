@@ -5,3 +5,18 @@ h1{
 p::first-letter{
     font-size: 50px;
 }
+
+.menu{
+    display: flex;
+    list-style: none;
+}
+
+.menu-item{
+    margin-right: 20px;
+}
+
+.menu-item-link{
+    border: 2px solid;
+    padding: 5px 15px;
+    text-decoration: none;
+}
